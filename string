@@ -1,0 +1,20 @@
+'''El método upper() de Python es capaz de transforma todo el texto de un string en mayúsculas.'''
+'''El método upper() de Python es capaz de transforma todo el texto de un string en minúsculas.'''
+'''El método str. find devuelve el índice más bajo en el que se encuentre el substring sub en el bloque str[start:end].'''
+'''El método replace(sub, nuevo) de la clase string devuelve una copia del string con todas las ocurrencias del substring sub 
+reemplazadas por el substring nuevo .'''
+
+#ejemplo upper()
+character = "hola putas locas"
+mayus=(character.upper)
+print(mayus())
+
+#ejemplo lower
+str="WENA CABROS CULIAOS"
+minus=(str.lower)
+print(minus())
+
+#ejemplo find
+lol="wena cabros del yutu"
+yutu=(lol.find)
+print(yutu())
